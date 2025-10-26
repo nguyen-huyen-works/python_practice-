@@ -6,7 +6,7 @@ print(sum(scores)/len(scores))  # average
 student = {"name": "Huyen", "major": "EE"}
 print(student["name"])
 
-
+# hi
 
 # Unpacking is a way of not indexing directly 
 student = ("Huyen", "EE", 19)
